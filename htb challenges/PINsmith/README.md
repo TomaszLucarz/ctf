@@ -1,4 +1,5 @@
 PINsmith
+
 After analyzing CygnusCorp's leaked credentials, you successfully infiltrate a secondary layer of their internal network.
 During your investigation, you discover developer credentials that were inadvertently committed to an internal code repository.
 Among the files, you uncover a partial PIN used to access a critical system, though it is incomplete.

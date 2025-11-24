@@ -1,4 +1,5 @@
 Cred Hunter
+
 During a red team engagement against CygnusCorp, your team gained access to a third-party analytics platform that had been improperly secured.
 This system — used for employee behavior profiling — contained a massive, unsanitized credential dump, blending email addresses and plaintext passwords collected through multiple internal tools, test systems, and staging environments.
 
